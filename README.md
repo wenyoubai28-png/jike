@@ -1,0 +1,2 @@
+# jike
+first repository
